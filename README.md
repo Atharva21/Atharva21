@@ -2,7 +2,8 @@
 
 ## I'm a Developer with a passion to build impactful things!
 
--   🔭 I’m currently working as a Full Stack developer at [Infosys](https://www.infosys.com/ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-   🔭 I’m currently working as a Full Stack developer at [Infosys](https://www.infosys.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate on React & Nextjs projects
 -   🥅 2022 Goals: Contribute more to Open Source projects
