@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![Linkedin: atharvamulay](https://img.shields.io/badge/-atharvamulay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharvamulay/)][linkedin] [![GitHub Atharva](https://img.shields.io/github/followers/Atharva21?label=follow&style=social)][github] [![Reddit: atharva](https://img.shields.io/badge/-atharvamulay-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/CarMysterious3132)][reddit] [![Discord](https://img.shields.io/discord/762306474797039647?logo=Discord&logoColor=%2342b3f5&label=Tobi's%20Crib&style=flat-square)](https://discord.gg/4dgQfqBNAU)
+[![Linkedin: atharvamulay](https://img.shields.io/badge/-atharvamulay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharvamulay/)][linkedin] [![GitHub Atharva](https://img.shields.io/github/followers/Atharva21?label=follow&style=social)][github] [![Discord](https://img.shields.io/discord/762306474797039647?logo=Discord&logoColor=%2342b3f5&label=Tobi's%20Crib&style=flat-square)](https://discord.gg/4dgQfqBNAU)
 
 ### Languages and Tools:
 
@@ -47,5 +47,4 @@
 
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
-[reddit]: https://www.reddit.com/user/CarMysterious3132
 [discord]: https://discord.gg/4dgQfqBNAU
