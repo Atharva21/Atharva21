@@ -28,11 +28,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-2. 🗣 Commented on [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-3. ❗️ Opened issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-4. ❗️ Closed issue [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-5. 🗣 Commented on [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+1. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Closed issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+3. 🗣 Commented on [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+4. ❗️ Opened issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+5. ❗️ Closed issue [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 <!--END_SECTION:activity-->
 
 </details>
@@ -41,6 +41,11 @@
 <!-- <br>
 <img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21" /> -->
 <br>
+
+<a href="#">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7"/>
+</a>
+<br><br>
 
 ![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen) [![LeetCode user Atharva21](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow)](https://leetcode.com/Atharva21/) [![Lichess Atharva](https://img.shields.io/badge/cybertron21-grey?style=social&logo=lichess&label=lichess)](https://lichess.org/@/cybertron21)
 
