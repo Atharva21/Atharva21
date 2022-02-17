@@ -26,6 +26,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+2. 🗣 Commented on [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+3. ❗️ Opened issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+4. ❗️ Closed issue [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+5. 🗣 Commented on [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+<!--END_SECTION:activity-->
 
 </details>
 
