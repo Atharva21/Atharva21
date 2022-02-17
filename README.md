@@ -39,7 +39,9 @@
 
 ---
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21)](https://github.com/Atharva21/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" /><img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" />
+</p>
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
