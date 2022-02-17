@@ -15,8 +15,7 @@
 
 ### Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="45" style="padding-right:45px;" /> <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="node" width="45" style="padding-right:45px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs" width="45" style="padding-right:45px;" /> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="45" style="padding-right:45px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="45" style="padding-right:45px;" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png#gh-dark-mode-only" alt="java" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" width="45" style="padding-right:45px;" />
-<br> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2mFgk66y--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/78/github-actions-runner-up-badge.png" alt="github actions" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="45" style="padding-right:45px;" /> <img src="./img/aws-logo.png#gh-dark-mode-only" alt="aws" width="45" style="padding-right:45px;" /> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="45" style="padding-right:45px;" /> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="45" style="padding-right:45px;" /> <img src="https://cdn.iconscout.com/icon/free/png-256/redis-4-1175103.png" alt="redis" width="45" style="padding-right:45px;" />
+![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![NodeJS][nodejs] ![GraphQL][graphql] ![React][react] ![Styled Components][styled-components] ![HTML5][html] ![CSS3][css] ![Java][java] ![Spring][spring] ![Visual Studio Code][vscode]<br>![Redis][redis] ![MongoDB][mongodb] ![MySQL][mysql]<br>![AWS][aws] ![GitHub Actions][gh-actions] ![Docker][docker] ![Git][git]
 
 <br>
 
@@ -26,7 +25,7 @@
 <br>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
@@ -48,3 +47,24 @@
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
 [discord]: https://discord.gg/4dgQfqBNAU
+[typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[nodejs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[javascript]: https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=grey
+[graphql]: https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[react]: https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=grey
+[styled-components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&messageColor=black
+[gh-actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[leetcode]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
+[codeforces]: https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
