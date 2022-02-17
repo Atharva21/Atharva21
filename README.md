@@ -55,7 +55,7 @@
     </details>
     <br>
     <a href="#">
-      <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7"/>
+      <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7&theme=nord"/>
     </a>
     <br><br>
 
