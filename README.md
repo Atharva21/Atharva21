@@ -19,6 +19,11 @@
 <br> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2mFgk66y--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/78/github-actions-runner-up-badge.png" alt="github actions" width="45" style="padding-right:45px;" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="45" style="padding-right:45px;" /> <img src="./img/aws-logo.png#gh-dark-mode-only" alt="aws" width="45" style="padding-right:45px;" />
 
 <br>
+
+---
+
+<img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true" />
+
 <br>
 <br>
 
