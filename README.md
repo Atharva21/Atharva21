@@ -38,11 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true#gh-light-mode-only)
-![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
-
-  <!-- <img alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true#gh-light-mode-only" />
-  <img alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" /> -->
+![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)
 
 </details>
 
