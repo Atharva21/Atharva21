@@ -42,7 +42,6 @@
 <!-- <br>
 <img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21" /> -->
 <br>
-<br>
 
 ![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen)
 
