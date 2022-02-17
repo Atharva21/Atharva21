@@ -22,6 +22,9 @@
 
 ---
 
+![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)
+<br>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -32,13 +35,6 @@
 4. ❗️ Closed issue [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 5. 🗣 Commented on [#4](https://github.com/Atharva21/cdk-poc/issues/4) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)
 
 </details>
 
