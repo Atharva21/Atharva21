@@ -39,33 +39,27 @@
 
 ---
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)
-<br>
+![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&theme=nord)](https://github.com/Atharva21/github-readme-stats)
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 2. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 3. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. ❗️ Closed issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 5. 🗣 Commented on [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-<!--END_SECTION:activity-->
+    <!--END_SECTION:activity-->
+    </details>
+    <br>
+    <a href="#">
+      <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7"/>
+    </a>
+    <br><br>
 
-</details>
-
-<!-- 👇 top languages -->
-<!-- <br>
-<img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21" /> -->
-<br>
-
-<a href="#">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7"/>
-</a>
-<br><br>
-
-![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen) [![LeetCode user Atharva21](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow)](https://leetcode.com/Atharva21/) [![Lichess Atharva](https://img.shields.io/badge/cybertron21-grey?style=social&logo=lichess&label=lichess)](https://lichess.org/@/cybertron21)
+![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen) [![LeetCode user Atharva21](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow)](https://leetcode.com/Atharva21/) [![Lichess Atharva](https://img.shields.io/badge/cybertron21-white?style=social&logo=lichess&label=lichess)](https://lichess.org/@/cybertron21)
 
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
