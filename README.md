@@ -15,7 +15,25 @@
 
 ### Languages and Tools:
 
-![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![NodeJS][nodejs] ![GraphQL][graphql] ![React][react] ![Styled Components][styled-components] ![HTML5][html] ![CSS3][css] ![Java][java] ![Spring][spring] ![Visual Studio Code][vscode]<br>![Redis][redis] ![MongoDB][mongodb] ![MySQL][mysql]<br>![AWS][aws] ![GitHub Actions][gh-actions] ![Docker][docker] ![Git][git]
+- Languages
+
+  ![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![HTML5][html] ![CSS3][css] ![Java][java]
+  
+- Frameworks/Libraries
+
+  ![NodeJS][nodejs] ![GraphQL][graphql] ![React][react] ![Styled Components][styled-components] ![Spring][spring]
+  
+- Database
+
+  ![Redis][redis] ![MongoDB][mongodb] ![MySQL][mysql]
+  
+- Hosting/SaaS
+
+  ![AWS][aws] ![GitHub Actions][gh-actions] ![Docker][docker]
+  
+- Tools
+  
+   ![Visual Studio Code][vscode]  ![Git][git]
 
 <br>
 
