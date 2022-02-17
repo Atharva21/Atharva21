@@ -22,15 +22,27 @@
 
 ---
 
-<img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true" />
+
+</details>
+
 <!-- 👇 top languages -->
 <!-- <br>
 <img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21" /> -->
 <br>
-<!--START_SECTION:activity-->
 <br>
 
-<!-- ![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen) -->
+![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen)
 
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
