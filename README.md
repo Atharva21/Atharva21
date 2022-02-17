@@ -48,11 +48,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
-2. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
-3. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Closed issue [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-5. 🗣 Commented on [#6](https://github.com/Atharva21/cdk-poc/issues/6) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+1. 🎉 Merged PR [#2](https://github.com/Atharva21/Atharva21/pull/2) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
+2. 💪 Opened PR [#2](https://github.com/Atharva21/Atharva21/pull/2) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
+3. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
+4. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
+5. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
     <!--END_SECTION:activity-->
     </details>
     <br>
