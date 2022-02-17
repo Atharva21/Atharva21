@@ -15,25 +15,25 @@
 
 ### Languages and Tools:
 
-- Languages
+-   Languages
 
-  ![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![HTML5][html] ![CSS3][css] ![Java][java]
-  
-- Frameworks/Libraries
+    ![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![HTML5][html] ![CSS3][css] ![Java][java]
 
-  ![NodeJS][nodejs] ![GraphQL][graphql] ![React][react] ![Styled Components][styled-components] ![Spring][spring]
-  
-- Database
+-   Frameworks/Libraries
 
-  ![Redis][redis] ![MongoDB][mongodb] ![MySQL][mysql]
-  
-- Hosting/SaaS
+    ![NodeJS][nodejs] ![GraphQL][graphql] ![React][react] ![Styled Components][styled-components] ![Spring][spring]
 
-  ![AWS][aws] ![GitHub Actions][gh-actions] ![Docker][docker]
-  
-- Tools
-  
-   ![Visual Studio Code][vscode]  ![Git][git]
+-   Database
+
+    ![Redis][redis] ![MongoDB][mongodb] ![MySQL][mysql]
+
+-   Hosting/SaaS
+
+    ![AWS][aws] ![GitHub Actions][gh-actions] ![Docker][docker]
+
+-   Tools
+
+    ![Visual Studio Code][vscode] ![Git][git]
 
 <br>
 
@@ -70,24 +70,22 @@
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
 [discord]: https://discord.gg/4dgQfqBNAU
-[typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-[nodejs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[javascript]: https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=grey
-[graphql]: https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
-[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[react]: https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=grey
-[styled-components]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
-[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
-[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&messageColor=black
-[gh-actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
-[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
-[mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[mysql]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-[leetcode]: https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06
-[codeforces]: https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white
-[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[typescript]: https://img.shields.io/badge/-Typescript-333?&logo=Typescript
+[nodejs]: https://img.shields.io/badge/-Nodejs-333?&logo=node.js
+[javascript]: https://img.shields.io/badge/-Javascript-333?&logo=javascript
+[graphql]: https://img.shields.io/badge/-GraphQL-333?&logo=GraphQL&logoColor=E10098
+[html]: https://img.shields.io/badge/-Html-333?&logo=Html5
+[css]: https://img.shields.io/badge/-CSS-333?&logo=Css3&logoColor=1572B6
+[react]: https://img.shields.io/badge/-React-333?&logo=react
+[styled-components]: https://img.shields.io/badge/-Styled%20Components-333?logo=styled-components
+[java]: https://img.shields.io/badge/-Java-333?&logo=Java&logoColor=007396
+[spring]: https://img.shields.io/badge/-Spring%20Boot-333?logo=Spring
+[aws]: https://img.shields.io/badge/-AWS-333?&logo=Amazon-aws&logoColor=FF9900
+[gh-actions]: https://img.shields.io/badge/-Github%20Actions-333?&logo=github-actions
+[docker]: https://img.shields.io/badge/-Docker-333?&logo=docker
+[python]: https://img.shields.io/badge/-Python-333?&logo=python
+[git]: https://img.shields.io/badge/-git-333?&logo=Git
+[redis]: https://img.shields.io/badge/-Redis-333?&logo=Redis
+[mongodb]: https://img.shields.io/badge/-MongoDB-333?&logo=MongoDB
+[mysql]: https://img.shields.io/badge/-MySQL-333?&logo=MySQL
+[vscode]: https://img.shields.io/badge/-VSCode-333?&logo=visual-studio-code&logoColor=007ACC
