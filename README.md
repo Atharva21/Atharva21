@@ -17,23 +17,23 @@
 
 -   Languages
 
-    ![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![HTML5][html] ![CSS3][css] ![Go][go] ![Java][java]
+    <img alt="typescript" src="https://img.shields.io/badge/-Typescript-444?&logo=Typescript&logoColor=2496ED" height=23 /> <img alt="javascript" src="https://img.shields.io/badge/-Javascript-444?&logo=javascript" height=23 /> <img alt="python" src="https://img.shields.io/badge/-Python-444?&logo=python&logoColor=2496ED" height=23 /> <img alt="html" src="https://img.shields.io/badge/-Html-444?&logo=Html5" height=23 /> <img alt="css" src="https://img.shields.io/badge/-CSS-444?&logo=Css3&logoColor=2496ED" height=23 /> <img alt="go" src="https://img.shields.io/badge/-GO-444?&logo=go&logoColor=007ACC&logoColor=2496ED" height=23 /> <img alt="java" src="https://img.shields.io/badge/-Java-444?&logo=Java&logoColor=FF0000" height=23 />
 
 -   Frameworks/Libraries
 
-    ![NodeJS][nodejs] ![GraphQL][graphql] ![React][react] ![Styled Components][styled-components] ![Spring][spring]
+    <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-444?&logo=node.js" height=23 /> <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-444?&logo=GraphQL&logoColor=E10098" height=23 /> <img alt="reactjs" src="https://img.shields.io/badge/-React-444?&logo=react" height=23 /> <img alt="styled-components" src="https://img.shields.io/badge/-Styled%20Components-444?logo=styled-components" height=23 /> <img alt="spring" src="https://img.shields.io/badge/-Spring%20Boot-444?logo=Spring" height=23 />
 
 -   Database
 
-    ![Redis][redis] ![MongoDB][mongodb] ![MySQL][mysql]
+    <img alt="redis" src="https://img.shields.io/badge/-Redis-444?&logo=Redis" height=23 /> <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-444?&logo=MongoDB" height=23 /> <img alt="mysql" src="https://img.shields.io/badge/-MySQL-444?&logo=MySQL&logoColor=2496ED" height=23 />
 
 -   Hosting/SaaS
 
-    ![AWS][aws] ![GitHub Actions][gh-actions] ![Docker][docker]
+    <img alt="aws" src="https://img.shields.io/badge/-AWS-444?&logo=Amazon-aws&logoColor=FF9900" height=23 /> <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-444?&logo=github-actions&logoColor=2496ED" height=23 /> <img alt="docker" src="https://img.shields.io/badge/-Docker-444?&logo=docker" height=23 />
 
 -   Tools
 
-    ![Visual Studio Code][vscode] ![Git][git]
+    <img alt="vscode" src="https://img.shields.io/badge/-VSCode-444?&logo=visual-studio-code&logoColor=007ACC" height=23 /> <img alt="git" src="https://img.shields.io/badge/-git-444?&logo=Git" height=23 />
 
 <br>
 
@@ -64,7 +64,8 @@
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
 [discord]: https://discord.gg/4dgQfqBNAU
-[typescript]: https://img.shields.io/badge/-Typescript-333?&logo=Typescript
+
+<!-- [typescript]: https://img.shields.io/badge/-Typescript-333?&logo=Typescript
 [nodejs]: https://img.shields.io/badge/-Nodejs-333?&logo=node.js
 [javascript]: https://img.shields.io/badge/-Javascript-333?&logo=javascript
 [graphql]: https://img.shields.io/badge/-GraphQL-333?&logo=GraphQL&logoColor=E10098
@@ -83,4 +84,4 @@
 [mongodb]: https://img.shields.io/badge/-MongoDB-333?&logo=MongoDB
 [mysql]: https://img.shields.io/badge/-MySQL-333?&logo=MySQL
 [vscode]: https://img.shields.io/badge/-VSCode-333?&logo=visual-studio-code&logoColor=007ACC
-[go]: https://img.shields.io/badge/-GO-333?&logo=go&logoColor=007ACC
+[go]: https://img.shields.io/badge/-GO-333?&logo=go&logoColor=007ACC -->
