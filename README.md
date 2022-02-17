@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[![Linkedin: atharvamulay](https://img.shields.io/badge/-atharvamulay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharvamulay/)][linkedin] [![GitHub Atharva](https://img.shields.io/github/followers/Atharva21?label=follow&style=social)][github] [![Discord](https://img.shields.io/discord/762306474797039647?logo=Discord&logoColor=%2342b3f5&label=Tobi's%20Crib&style=flat-square)](https://discord.gg/4dgQfqBNAU)
+[![GitHub Atharva](https://img.shields.io/github/followers/Atharva21?label=follow&style=social)][github] [![Linkedin: Atharva Mulay](https://img.shields.io/badge/-Atharva%20Mulay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharvamulay/)][linkedin] [![Discord](https://img.shields.io/discord/762306474797039647?logo=Discord&logoColor=%2342b3f5&label=Tobi's%20Crib&style=flat-square)](https://discord.gg/4dgQfqBNAU)
 
 ### Languages and Tools:
 
 -   Languages
 
-    ![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![HTML5][html] ![CSS3][css] ![Java][java]
+    ![TypeScript][typescript] ![JavaScript][javascript] ![Python][python] ![HTML5][html] ![CSS3][css] ![Go][go] ![Java][java]
 
 -   Frameworks/Libraries
 
@@ -72,7 +72,7 @@
 [css]: https://img.shields.io/badge/-CSS-333?&logo=Css3&logoColor=1572B6
 [react]: https://img.shields.io/badge/-React-333?&logo=react
 [styled-components]: https://img.shields.io/badge/-Styled%20Components-333?logo=styled-components
-[java]: https://img.shields.io/badge/-Java-333?&logo=Java&logoColor=007396
+[java]: https://img.shields.io/badge/-Java-333?&logo=Java&logoColor=FF0000
 [spring]: https://img.shields.io/badge/-Spring%20Boot-333?logo=Spring
 [aws]: https://img.shields.io/badge/-AWS-333?&logo=Amazon-aws&logoColor=FF9900
 [gh-actions]: https://img.shields.io/badge/-Github%20Actions-333?&logo=github-actions
@@ -83,3 +83,4 @@
 [mongodb]: https://img.shields.io/badge/-MongoDB-333?&logo=MongoDB
 [mysql]: https://img.shields.io/badge/-MySQL-333?&logo=MySQL
 [vscode]: https://img.shields.io/badge/-VSCode-333?&logo=visual-studio-code&logoColor=007ACC
+[go]: https://img.shields.io/badge/-GO-333?&logo=go&logoColor=007ACC
