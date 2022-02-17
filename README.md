@@ -43,7 +43,7 @@
 <img align="left" alt="Atharva21 github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21" /> -->
 <br>
 
-![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen)
+![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen) [![LeetCode user Atharva21](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow)](https://leetcode.com/Atharva21/) [![Lichess Atharva](https://img.shields.io/badge/cybertron21-grey?style=social&logo=lichess&label=lichess)](https://lichess.org/@/cybertron21)
 
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
