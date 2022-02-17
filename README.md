@@ -39,7 +39,7 @@
 
 ---
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&theme=nord)](https://github.com/Atharva21/github-readme-stats)
+![github-stats](https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&theme=nord&show_icons=true&hide_border=true)](https://github.com/Atharva21/github-readme-stats)
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
