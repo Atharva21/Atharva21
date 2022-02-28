@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" /><img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&layout=compact&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" /><img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" />
 </p>
 
 <details>
