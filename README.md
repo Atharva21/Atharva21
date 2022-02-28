@@ -39,10 +39,6 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&layout=compact&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" /><img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" />
-</p>
-
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
 
@@ -55,15 +51,30 @@
 5. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
     <!--END_SECTION:activity-->
     </details>
-    <br>
-    <p align="center">
-        <a href="#">
-            <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7&theme=nord"/>
-        </a>
-    </p>
-    <br><br>
+---
 
-![visitors](https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen) [![LeetCode user Atharva21](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow)](https://leetcode.com/Atharva21/) [![Lichess Atharva](https://img.shields.io/badge/cybertron21-white?style=social&logo=lichess&label=lichess)](https://lichess.org/@/cybertron21)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&layout=compact&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" /><img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" />
+</p>
+<br>
+<p align="center">
+    <a href="#">
+        <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=7&theme=nord"/>
+    </a>
+</p>
+<br>
+
+<p align="center">
+    <a href="#">
+        <img src="https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen">
+    </a>
+    <a href="https://leetcode.com/Atharva21/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow">
+    </a>
+    <a href="https://lichess.org/@/cybertron21">
+        <img src="https://img.shields.io/badge/cybertron21-white?style=social&logo=lichess&label=lichess">
+    </a>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/atharvamulay/
 [github]: https://github.com/Atharva21
