@@ -54,12 +54,12 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&layout=compact&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" /><img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true&line_height=21" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva21&exclude_repo=leetcode,Leetcode&layout=compact&theme=ayu-mirage&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21" />&nbsp;<img height="170" valign="center" src="https://github-readme-stats.vercel.app/api?username=Atharva21&show_icons=true&hide_border=true&theme=ayu-mirage&include_all_commits=true&count_private=true&line_height=21" />
 </p>
 <br>
 <p align="center">
     <a href="#">
-        <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=6&theme=nord"/>
+        <img width=800 src="https://github-profile-trophy.vercel.app/?username=Atharva21&column=6&margin-w=10&theme=onedark"/>
     </a>
 </p>
 <br>
@@ -68,9 +68,11 @@
     <a href="#">
         <img src="https://komarev.com/ghpvc/?username=Atharva21&color=brightgreen">
     </a>
+    &nbsp;
     <a href="https://leetcode.com/Atharva21/">
         <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Leetcode%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAtharva21&logo=leetcode&logoColor=yellow">
     </a>
+    &nbsp;
     <a href="https://lichess.org/@/cybertron21">
         <img src="https://img.shields.io/badge/cybertron21-white?style=social&logo=lichess&label=lichess">
     </a>
