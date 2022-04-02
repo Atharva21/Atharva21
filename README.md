@@ -44,7 +44,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Atharva21/Atharva21/pull/2) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
+1. 🎉 Merged PR [#7](https://github.com/Atharva21/cdk-poc/pull/7) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 2. 💪 Opened PR [#2](https://github.com/Atharva21/Atharva21/pull/2) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 3. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 4. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
