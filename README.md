@@ -44,8 +44,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/Atharva21/cdk-poc/pull/7) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
-2. 💪 Opened PR [#2](https://github.com/Atharva21/Atharva21/pull/2) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
+1. 💪 Opened PR [#71](https://github.com/awsdocs/aws-step-functions-developer-guide/pull/71) in [awsdocs/aws-step-functions-developer-guide](https://github.com/awsdocs/aws-step-functions-developer-guide)
+2. 🎉 Merged PR [#7](https://github.com/Atharva21/cdk-poc/pull/7) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 3. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 4. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 5. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
