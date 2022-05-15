@@ -44,7 +44,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#27](https://github.com/ladukaraniket/Sorting-Visualizer/issues/27) in [ladukaraniket/Sorting-Visualizer](https://github.com/ladukaraniket/Sorting-Visualizer)
+1. 🗣 Commented on [#1](https://github.com/Atharva21/rickroll-bot/issues/1) in [Atharva21/rickroll-bot](https://github.com/Atharva21/rickroll-bot)
 2. 🎉 Merged PR [#7](https://github.com/Atharva21/cdk-poc/pull/7) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
 3. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 4. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
