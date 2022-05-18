@@ -44,8 +44,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/Atharva21/rickroll-bot/issues/1) in [Atharva21/rickroll-bot](https://github.com/Atharva21/rickroll-bot)
-2. 🎉 Merged PR [#7](https://github.com/Atharva21/cdk-poc/pull/7) in [Atharva21/cdk-poc](https://github.com/Atharva21/cdk-poc)
+1. 🗣 Commented on [#8](https://github.com/sengupta/twss/issues/8) in [sengupta/twss](https://github.com/sengupta/twss)
+2. 🗣 Commented on [#1](https://github.com/Atharva21/rickroll-bot/issues/1) in [Atharva21/rickroll-bot](https://github.com/Atharva21/rickroll-bot)
 3. 🎉 Merged PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 4. 💪 Opened PR [#1](https://github.com/Atharva21/Atharva21/pull/1) in [Atharva21/Atharva21](https://github.com/Atharva21/Atharva21)
 5. ❗️ Opened issue [#19877](https://github.com/timburgan/timburgan/issues/19877) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
