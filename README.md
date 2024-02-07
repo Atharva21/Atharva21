@@ -2,7 +2,7 @@
 
 ## I'm a Developer with a passion to build impactful things!
 
--   🔭 I’m currently working as a Full Stack developer at [Dell Technologies]([https://en.wikipedia.org/wiki/Dell](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm#)) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-   🔭 I’m currently working as a Full Stack developer at [Dell Technologies]([https://en.wikipedia.org/wiki/Dell](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm#) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate on React & Nextjs projects
