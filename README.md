@@ -5,7 +5,7 @@
 -   🔭 I’m currently working as a Full Stack developer at [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm#) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 -   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate on React & Nextjs projects
+-   👯 I’m looking to collaborate on Golang projects
 -   🥅 2022 Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I Love to play chess ♟ and video games 🎮
 
