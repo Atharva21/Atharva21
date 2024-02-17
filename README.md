@@ -6,7 +6,6 @@
 
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate on Golang projects
--   🥅 2022 Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I Love to play chess ♟ and video games 🎮
 
 ### Connect with me:
