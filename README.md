@@ -4,7 +4,7 @@
 
 -   🔭 I’m currently working as a Full Stack developer at [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm#) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
--   🌱 I’m currently learning everything 🤣
+-   🌱 I’m currently learning golang 
 -   👯 I’m looking to collaborate on Golang projects
 -   ⚡ Fun fact: I Love to play chess ♟ and video games 🎮
 
