@@ -26,7 +26,7 @@
     <img alt="postgres" src="https://img.shields.io/badge/-Postgres-444?&logo=PostgreSQL&logoColor=2496ED" height="23px" /> <img alt="redis" src="https://img.shields.io/badge/-Redis-444?&logo=Redis" height="23px" /> <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-444?&logo=MongoDB" height="23px" />
 -   Hosting/SaaS
 
-    <img alt="docker" src="https://img.shields.io/badge/-Docker-444?&logo=docker" height="23px" /> <img alt="kubernetes" src="https://img.shields.io/badge/-Docker-444?&logo=docker" height="23px" /> <img alt="aws" src="https://img.shields.io/badge/-AWS-444?&logo=Amazon-aws&logoColor=FF9900" height="23px" /> <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-444?&logo=github-actions&logoColor=2496ED" height="23px" />
+    <img alt="docker" src="https://img.shields.io/badge/-Docker-444?&logo=docker" height="23px" /> <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-444?&logo=Kubernetes" height="23px" /> <img alt="aws" src="https://img.shields.io/badge/-AWS-444?&logo=Amazon-aws&logoColor=FF9900" height="23px" /> <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-444?&logo=github-actions&logoColor=2496ED" height="23px" />
 
 -   Tools
 
