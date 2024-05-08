@@ -23,7 +23,7 @@
     <img alt="spring" src="https://img.shields.io/badge/-Spring%20Boot-444?logo=Spring" height="23px" /> <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-444?&logo=node.js" height="23px" /> <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-444?&logo=GraphQL&logoColor=E10098" height="23px" /> <img alt="reactjs" src="https://img.shields.io/badge/-React-444?&logo=react" height="23px" /> <img alt="styled-components" src="https://img.shields.io/badge/-Styled%20Components-444?logo=styled-components" height="23px" />
 -   Database
 
-    <img alt="postgres" src="https://img.shields.io/badge/-POSTGRES-444?&logo=PostgreSQL&logoColor=2496ED" height="23px" /> <img alt="redis" src="https://img.shields.io/badge/-Redis-444?&logo=Redis" height="23px" /> <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-444?&logo=MongoDB" height="23px" />
+    <img alt="postgres" src="https://img.shields.io/badge/-Postgres-444?&logo=PostgreSQL&logoColor=2496ED" height="23px" /> <img alt="redis" src="https://img.shields.io/badge/-Redis-444?&logo=Redis" height="23px" /> <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-444?&logo=MongoDB" height="23px" />
 -   Hosting/SaaS
 
     <img alt="docker" src="https://img.shields.io/badge/-Docker-444?&logo=docker" height="23px" /> <img alt="kubernetes" src="https://img.shields.io/badge/-Docker-444?&logo=docker" height="23px" /> <img alt="aws" src="https://img.shields.io/badge/-AWS-444?&logo=Amazon-aws&logoColor=FF9900" height="23px" /> <img alt="github-actions" src="https://img.shields.io/badge/-Github%20Actions-444?&logo=github-actions&logoColor=2496ED" height="23px" />
