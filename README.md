@@ -2,7 +2,7 @@
 
 ## I'm a Developer with a passion to build impactful things!
 
--   🔭 I’m currently working as a Full Stack developer at [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm#) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-   🔭 I’m currently working as a SDE2 at [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm#) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 -   🌱 I’m currently learning golang 
 -   👯 I’m looking to collaborate on Golang projects
